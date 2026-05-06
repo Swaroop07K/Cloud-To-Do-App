@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Todo App",
+  "description": "A secure, real-time todo list application powered by React and Firebase with persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
